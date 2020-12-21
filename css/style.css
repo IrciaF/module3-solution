@@ -5,7 +5,7 @@
     min-height: 70px;
 }
 .navbar-toggle {
-    float: rignt;
+    float: right;
 }
 @media (min-width: 768px) {
 .navbar-toggle {
