@@ -4,6 +4,9 @@
     border-top: solid 2px black;
     min-height: 70px;
 }*/
+.navbar {
+    padding-bottom: 0px;
+}
 .navbar-toggle {
     float: right;
 }
